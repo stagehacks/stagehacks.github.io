@@ -54,6 +54,9 @@
 - [VDO Ninja](https://vdo.ninja/) Stream video from a remote device into OBS or a browser. Free, simple, browser-based setup with no user accounts or logins.
 - [ShowPlay](https://apps.apple.com/us/app/showplay/id1547023004) App to play locally-stored video and sounds from an iOS device or Mac using remote OSC triggers.
 - [Vingester](https://vingester.app/) Open Source app for capturing websites (video players, websites, games) into NDI streams. Control pixel dimensions, frame rate, audio channels, and more.
+- [House Mapping Tool](https://digitalpressworks.com/free-mapping-software/). A lightweight cross platform app that helps create maps for projection mapping.
+- [MadMapper](https://madmapper.com/) Build a projection mapping show in an easy to understand format. Can be used in conjunction with Qlab.
+- [Projection Mapping Central](https://projection-mapping.org/) A font of resources about projection mapping.
 
 # Sound
 - [TheatreMix](https://theatremix.com/) Manage DCA assignments and mutes for up to 48 channels separately from console scenes, for DCA-style theater mixing. Also monitors meters for dropouts and clipping.
@@ -73,6 +76,7 @@
 - [LightFinger](https://apps.apple.com/us/app/lightfinger/id1568459015) iPad app to control moving lights as followspots using the touchscreen. By [Colin Grenfell](https://lovely.lighting/) **In-App Purchase**
 - [ArtNetView](https://artnetview.com/) Simple yet beautiful app to monitor Art-Net data on the network. By [Haute Technique](https://hautetechnique.com/)
 - [Multicaster](https://singularity-uk.com/product/multicaster/) Windows app for checking if sACN/multicast networks are well configured.
+- [LX Series Software](https://www.claudeheintzdesign.com/lx/index.html) A selection of apps by Claude Heintz for generating rig plans and lighting paperwork.
 
 # Docs
 - [A Computer Prepares](https://qlab.app/docs/v5/general/preparing-your-mac/) Fantastic guide by [Figure 53](http://figure53.com/)on optimizing a Mac to run QLab projects. They make QLab, so they're kind of the experts.
@@ -110,3 +114,13 @@
 - [r.Cup](https://rcup.com/) Reusable plastic cup vendor for live events, to reduce single-use plastics. Here’s some [additional literature](https://static1.squarespace.com/static/5f218f677f1fdb38f06cebcb/t/610aaa9a1f89ff0d02ef7d7d/1628089003873/Cup+LCA+Report_Final.pdf).
 - [Luxeon Star LEDs](https://www.luxeonstar.com/) Cheap, customizable PCBs with the same LEDs that lighting manufacturers use. Integrate pro-grade color mixing into your own circuits.
 - [Snap-On Rack Panels](https://snaponrackpanels.com/) Lightweight fabric “blanking panels” for tidying up racks and improving ventilation.
+
+# CAD
+- [SketchUp](https://www.sketchup.com/) Offers a Free online CAD environment for 3D modeling to scale. Models can be downloaded into other software.
+- [Vectorworks](https://www.vectorworks.net/en-GB) Industry Standard Cad software.
+- [Vectorworks Educational](https://student.myvectorworks.net/) Free student version with unlimited access, though outputs are watermarked.  
+- [Maxon One Educational](https://www.maxon.net/en/educational-licenses) Maxon offers a free 6-month full licence (renewable with a student email). A $2.99 admin fee applies.  
+- [ETC EOS Software](https://www.etcconnect.com/Products/Consoles/Eos-Family/) Free lighting console software with built-in visualizer (Augment3d). You can pre-program but not output to devices without a dongle.  
+- [Capture Visualisation](https://www.capture.se/) Lighting visualisation with generic and some intelligent fixtures.  
+- [AutoDesk](https://www.autodesk.co.uk/) Industry standard CAD Software.
+- [Caddlab](http://www.caddlab.org/) Learn to use AutoCAD.
