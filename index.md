@@ -85,6 +85,7 @@
 - [panLab](https://innovateaudio.co.uk/) panLab is a multi-point audio panner, designed to work exclusively with QLab. By [Daniel Higgott](http://www.danielhiggott.com/).
 - [Cue View](https://github.com/stagehacks/Cue-View) Open source tool for remote monitoring of ETC Eos Family, QLab, Watchout, PJLink, X32/XAir, Art-Net, and sACN.
 - [Cue Wizard](http://www.garethfry.co.uk/cue-wizard) Label and mark QLab cues in bulk, perfect for cleaning up messy workspaces. By [Gareth Fry](http://www.garethfry.co.uk/)
+- [CueBilt](https://github.com/tbsounddesigns/cuebilt) Turn a TSV-formatted cue sheet into a skeleton cue list in QLab. Designers can build their cue sheets, download them as a TSV file, import them, and watch QLab magically make a group cue for each cue in their sheet.
 - [qlab-scripts](https://github.com/samschloegel/qlab-scripts) A ton of useful scripts to make QLab (and other equipment) perform special tricks. By [Sam Schloegel](https://schloegel.nyc/)
 - [macroLab](http://www.danielhiggott.com/macroLab/) Macro assistant for QLab, triggered with GUI or a [Elgato Streamdeck](https://www.elgato.com/en/gaming/stream-deck). By [Daniel Higgott](http://www.danielhiggott.com/). **$3**
 - [qlabspotify](https://github.com/duk242/qlabspotify) Spotify “plugin” for QLab
