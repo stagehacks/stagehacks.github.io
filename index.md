@@ -89,6 +89,7 @@
 - [qlab-scripts](https://github.com/samschloegel/qlab-scripts) A ton of useful scripts to make QLab (and other equipment) perform special tricks. By [Sam Schloegel](https://schloegel.nyc/)
 - [macroLab](http://www.danielhiggott.com/macroLab/) Macro assistant for QLab, triggered with GUI or a [Elgato Streamdeck](https://www.elgato.com/en/gaming/stream-deck). By [Daniel Higgott](http://www.danielhiggott.com/). **$3**
 - [qlabspotify](https://github.com/duk242/qlabspotify) Spotify “plugin” for QLab
+- [FolderToQLabSlideshow](https://github.com/c-had/FolderToQLabSlideshow) Turn a folder full of images into a QLab slideshow that automatically updates when images change.
   
 # Dev Tools
 - [osc-min](https://www.npmjs.com/package/osc-min) The best (imo) OSC package for Node.js. Simple, lightweight, and up to date with OSC 1.1.
