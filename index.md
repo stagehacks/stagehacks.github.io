@@ -71,7 +71,7 @@
 
 # Lights
 - [Q Light Controller+](https://www.qlcplus.org/) The venerable swiss army knife of lighting control apps.
-- [LXSeries Software] A suite of charming apps for lighting designers, including the free basic lighting CAD app LXFree. By [Claude Heintz Design](https://www.claudeheintzdesign.com/lx/index.html)
+- [LXSeries Software](https://www.claudeheintzdesign.com/lx/software.html) A suite of charming apps for lighting designers, including the free basic lighting CAD app LXFree. By [Claude Heintz Design](https://www.claudeheintzdesign.com/lx/index.html)
 - [sACNView](https://sacnview.org/) Advanced tool for monitoring sACN data on the network, plus troubleshooting, logging, and output tools.
 - [luminosus](https://www.luminosus.org/) Powerful MIDI and OSC controller for Eos, programmed by connecting virtual nodes.
 - [LightFinger](https://apps.apple.com/us/app/lightfinger/id1568459015) iPad app to control moving lights as followspots using the touchscreen. By [Colin Grenfell](https://lovely.lighting/) **In-App Purchase**
