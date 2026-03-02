@@ -27,6 +27,7 @@
 - [Powerpoint OSC](https://github.com/benkuper/PowerPoint-OSC) A Powerpoint add-in for basic control of powerpoint presentations with OSC by [Ben Kuper](http://benjamin.kuperberg.fr/)
 - [The Wizard of OSC (TWO)](https://www.thewizardofosc.com/) Tool for recording, replaying, and creative manipulation of MIDI & OSC. Inspired by live electronic musicians.
 - [LanScan](https://apps.apple.com/us/app/lanscan/id472226235?mt=12) LanScan is a simple and efficient IPv4 network scanner, with bonus features like vendor identification by MAC. Free, but **$6** to unlock a few new features.
+- [osc-cli](https://github.com/sndwrks/osc-cli) osc-cli is simple command line application to listen, send, load test, and validate OSC via TCP or UDP. By [sndwrks](https://github.com/sndwrks)
 
 
 # Networking
