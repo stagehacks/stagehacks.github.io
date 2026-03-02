@@ -55,6 +55,7 @@
 - [VDO Ninja](https://vdo.ninja/) Stream video from a remote device into OBS or a browser. Free, simple, browser-based setup with no user accounts or logins.
 - [ShowPlay](https://apps.apple.com/us/app/showplay/id1547023004) App to play locally-stored video and sounds from an iOS device or Mac using remote OSC triggers.
 - [Vingester](https://vingester.app/) Open Source app for capturing websites (video players, websites, games) into NDI streams. Control pixel dimensions, frame rate, audio channels, and more.
+- [Projection Mapper](https://digitalpressworks.com/free-mapping-software/). A simple utility for outlining objects with a projector and exporting the result as a PNG image.
 
 # Sound
 - [TheatreMix](https://theatremix.com/) Manage DCA assignments and mutes for up to 48 channels separately from console scenes, for DCA-style theater mixing. Also monitors meters for dropouts and clipping.
@@ -66,9 +67,11 @@
 - [Remotely Possible](https://remotely-possible.ca/) Control a Yamaha CL or QL console from another CL or QL, even over the Internet. Monthly or Annual subscriptions.
 - [spatial audio tools catalog](https://spaes.org/spatial-audio-tools-catalog) Directory of tools for working with Spatial Audio, by the lab for spatial aesthetics in sound in Berlin
 - [MarkerMatic](https://markermatic.com) A tool to automate cueing and marker placement between consoles and DAWs, primarily used for multitrack recordings. Supports Yamaha, DiGiCo, Studer Vista, and X32/X Air.
+- [AES70 Explorer](https://aes70explorer.com/) Utility for exploring the available features of AES70/OCA devices, most commonly d&b audiotechnik and Focusrite products.
 
 # Lights
 - [Q Light Controller+](https://www.qlcplus.org/) The venerable swiss army knife of lighting control apps.
+- [LXSeries Software] A suite of charming apps for lighting designers, including the free basic lighting CAD app LXFree. By [Claude Heintz Design](https://www.claudeheintzdesign.com/lx/index.html)
 - [sACNView](https://sacnview.org/) Advanced tool for monitoring sACN data on the network, plus troubleshooting, logging, and output tools.
 - [luminosus](https://www.luminosus.org/) Powerful MIDI and OSC controller for Eos, programmed by connecting virtual nodes.
 - [LightFinger](https://apps.apple.com/us/app/lightfinger/id1568459015) iPad app to control moving lights as followspots using the touchscreen. By [Colin Grenfell](https://lovely.lighting/) **In-App Purchase**
