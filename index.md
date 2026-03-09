@@ -56,6 +56,8 @@
 - [ShowPlay](https://apps.apple.com/us/app/showplay/id1547023004) App to play locally-stored video and sounds from an iOS device or Mac using remote OSC triggers.
 - [Vingester](https://vingester.app/) Open Source app for capturing websites (video players, websites, games) into NDI streams. Control pixel dimensions, frame rate, audio channels, and more.
 - [Projection Mapper](https://digitalpressworks.com/free-mapping-software/). A simple utility for outlining objects with a projector and exporting the result as a PNG image.
+- [Zoe](https://rmlx.co.uk/zoe) Ultra simple free macOS media server for digital backdrop control by sACN. By [Ross Henderson](https://rmlx.co.uk)
+
 
 # Sound
 - [TheatreMix](https://theatremix.com/) Manage DCA assignments and mutes for up to 48 channels separately from console scenes, for DCA-style theater mixing. Also monitors meters for dropouts and clipping.
@@ -74,9 +76,11 @@
 - [LXSeries Software](https://www.claudeheintzdesign.com/lx/software.html) A suite of charming apps for lighting designers, including the free basic lighting CAD app LXFree. By [Claude Heintz Design](https://www.claudeheintzdesign.com/lx/index.html)
 - [sACNView](https://sacnview.org/) Advanced tool for monitoring sACN data on the network, plus troubleshooting, logging, and output tools.
 - [luminosus](https://www.luminosus.org/) Powerful MIDI and OSC controller for Eos, programmed by connecting virtual nodes.
+- [lcxl-eos](https://github.com/rsmck/lcxl-eos) Simple script to use the Novation LaunchControl XL as a fader wing and encoders for ETC Eos / Nomad consoles. By [Ross Henderson](https://rmlx.co.uk)
 - [LightFinger](https://apps.apple.com/us/app/lightfinger/id1568459015) iPad app to control moving lights as followspots using the touchscreen. By [Colin Grenfell](https://lovely.lighting/) **In-App Purchase**
 - [ArtNetView](https://artnetview.com/) Simple yet beautiful app to monitor Art-Net data on the network. By [Haute Technique](https://hautetechnique.com/)
 - [Multicaster](https://singularity-uk.com/product/multicaster/) Windows app for checking if sACN/multicast networks are well configured.
+- [CueCam](https://apps.apple.com/gb/app/cuecam-for-eos/id6758520760) iOS Application to record your show with Eos cue data overlay and the ability to add notes in realtime. Also functions as an RTSP source for Eos. There's a web-based companion file browser tool, see https://qcam.app. By [Ross Henderson](https://rmlx.co.uk) **One-Time In-App Purchase**
 
 # Docs
 - [A Computer Prepares](https://qlab.app/docs/v5/general/preparing-your-mac/) Fantastic guide by [Figure 53](http://figure53.com/)on optimizing a Mac to run QLab projects. They make QLab, so they're kind of the experts.
