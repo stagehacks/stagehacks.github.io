@@ -82,6 +82,9 @@
 - [Multicaster](https://singularity-uk.com/product/multicaster/) Windows app for checking if sACN/multicast networks are well configured.
 - [CueCam](https://apps.apple.com/gb/app/cuecam-for-eos/id6758520760) iOS Application to record your show with Eos cue data overlay and the ability to add notes in realtime. Also functions as an RTSP source for Eos. There's a web-based companion file browser tool, see https://qcam.app. By [Ross Henderson](https://rmlx.co.uk) **One-Time In-App Purchase**
 
+# Scripts
+- [PromptBook](https://apps.apple.com/gb/app/promptbook/id6760601185) Mac and iPad app for annontating scripts with cues. Includes ETC Eos cue list export and slick layout features. By [James Appleby](https://applebytechnical.com) **$1**
+
 # Docs
 - [A Computer Prepares](https://qlab.app/docs/v5/general/preparing-your-mac/) Fantastic guide by [Figure 53](http://figure53.com/)on optimizing a Mac to run QLab projects. They make QLab, so they're kind of the experts.
 - [QLab Cookbook](https://qlabcookbook.com/) [Mic Pool's](https://micpool.com/) amazing tricks for advanced QLab programming
