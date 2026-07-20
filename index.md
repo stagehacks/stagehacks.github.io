@@ -16,9 +16,10 @@
 - [MSCmonitor](https://audiostrom.com/midi-show-control-monitor/) Always know what cue was last fired. By [Audioström](https://audiostrom.com/)
 
 ### OSC
+- [OSCRouter](https://github.com/ETCLabs/OSCRouter) Simple UDP/TCP packet router for Mac and Windows, with optional OSC specific options. From [ETCLabs](https://github.com/etclabs) on GitHub.
+- [flow](https://github.com/MizPlusPlus/flow) Build OSC sequences using a timeline interface that feels like After Effects. By Chris Mizerak
 - [Protokol](https://hexler.net/protokol) A powerful and simple console for troubleshooting OSC and MIDI. Includes filtering and debugging logs.
 - [ZoomOSC](https://www.liminalet.com/zoomosc)Control Zoom user interface functions, such as pin, spotlight, mute/unmute, video, on/off with OSC. Or rearrange the grid! Windows only.
-- [OSCRouter](https://github.com/ETCLabs/OSCRouter) Simple UDP/TCP packet router for Mac and Windows, with optional OSC specific options. From [ETCLabs](https://github.com/etclabs) on GitHub.
 - [OSCulator](https://osculator.net/) Route MIDI and OSC between devices and wireless controllers
 - [Open Stage Control](https://openstagecontrol.ammd.net/) Design complex custom OSC interfaces + serve them to browsers on the network
 - [ShowPlay](https://apps.apple.com/us/app/showplay/id1547023004) App to play locally-stored video and sounds from an iOS device or Mac using remote OSC triggers.
