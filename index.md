@@ -85,6 +85,7 @@
 
 # Scripts
 - [PromptBook](https://apps.apple.com/gb/app/promptbook/id6760601185) Mac and iPad app for annontating scripts with cues. Includes ETC Eos cue list export and slick layout features. By [James Appleby](https://applebytechnical.com) **$1**
+- [CuePad](https://cuepad.app) Browser-based script annontation, cue building, and blocking diagramming tool. Free for one script or **$19/mo**.
 
 # Docs
 - [A Computer Prepares](https://qlab.app/docs/v5/general/preparing-your-mac/) Fantastic guide by [Figure 53](http://figure53.com/)on optimizing a Mac to run QLab projects. They make QLab, so they're kind of the experts.
