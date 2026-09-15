@@ -85,6 +85,7 @@
 
 # Scripts
 - [PromptBook](https://apps.apple.com/gb/app/promptbook/id6760601185) Mac and iPad app for annontating scripts with cues. Includes ETC Eos cue list export and slick layout features. By [James Appleby](https://applebytechnical.com) **$1**
+- [Cuelist](https://thecuelist.com) Browser-based script annontation. Subscription and per-project pricing. 
 - [CuePad](https://cuepad.app) Browser-based script annontation, cue building, and blocking diagramming tool. Free for one script or **$19/mo**.
 
 # Docs
